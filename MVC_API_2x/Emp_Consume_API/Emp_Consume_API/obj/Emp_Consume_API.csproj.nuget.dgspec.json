@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Entire_MVC_Project_BackUp\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj": {}
+    "F:\\MVC_API\\MVC_API_2x\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj": {}
   },
   "projects": {
-    "F:\\Entire_MVC_Project_BackUp\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj": {
+    "F:\\MVC_API\\MVC_API_2x\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Entire_MVC_Project_BackUp\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj",
+        "projectUniqueName": "F:\\MVC_API\\MVC_API_2x\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj",
         "projectName": "Emp_Consume_API",
-        "projectPath": "F:\\Entire_MVC_Project_BackUp\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj",
+        "projectPath": "F:\\MVC_API\\MVC_API_2x\\Emp_Consume_API\\Emp_Consume_API\\Emp_Consume_API.csproj",
         "packagesPath": "C:\\Users\\vswin\\.nuget\\packages\\",
-        "outputPath": "F:\\Entire_MVC_Project_BackUp\\Emp_Consume_API\\Emp_Consume_API\\obj\\",
+        "outputPath": "F:\\MVC_API\\MVC_API_2x\\Emp_Consume_API\\Emp_Consume_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8043,11 +8043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MVC_Training\\Entire_MVC_Project\\API\\API\\API.csproj",
+      "projectUniqueName": "F:\\MVC_API\\MVC_API_2x\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\MVC_Training\\Entire_MVC_Project\\API\\API\\API.csproj",
+      "projectPath": "F:\\MVC_API\\MVC_API_2x\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\vswin\\.nuget\\packages\\",
-      "outputPath": "F:\\MVC_Training\\Entire_MVC_Project\\API\\API\\obj\\",
+      "outputPath": "F:\\MVC_API\\MVC_API_2x\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
